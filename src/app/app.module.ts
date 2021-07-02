@@ -2,7 +2,8 @@ import { NgModule, NO_ERRORS_SCHEMA } from '@angular/core'
 import {NativeScriptFormsModule, NativeScriptModule} from '@nativescript/angular'
 // import { AppRoutingModule } from './app-routing.module'
 import { AppComponent } from './app.component'
-import {CurrentChallengeComponent} from "~/app/Challenges/current-challenge/current-challenge.component";
+import { CurrentChallengeComponent} from './current-challenge/current-challenge.component'
+// import {ExampleComponent} from "~/app/WorldWind_Test/Example/example.component";
 // import { ItemsComponent } from './item/items.component'
 // import { ItemDetailComponent } from './item/item-detail.component'
 
